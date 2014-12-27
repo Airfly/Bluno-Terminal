@@ -26,17 +26,17 @@ http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%
  
  
 
-# Tips:
+# Tips/提示
 -Sending +++ to switch into AT Mode, then sending AT+PASSWORD=[your passcode] for authentication.
 
--Sending AT+EXIT to switch back to normal mode.
-
-# 提示：
 -发送 +++ 可切换到AT指令模式，然后发送 AT+PASSWORD=[你的密码] 进行认证。
+
+-Sending AT+EXIT to switch back to normal mode.
 
 -发送 AT+EXIT 切换回到普通模式。
  
  
+
 # Note/说明
 This project was built and tested under Windows 8.1 with Visula Studio 2013. And did not test on Windows 8 yet.
 
