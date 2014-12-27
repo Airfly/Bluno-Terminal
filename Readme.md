@@ -37,7 +37,7 @@ http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%
 -发送 AT+EXIT 切换回到普通模式。
  
  
-
+# Note/说明
 This project was built and tested under Windows 8.1 with Visula Studio 2013. And did not test on Windows 8 yet.
 
 这个项目在Windows 8.1下使用Visual Studio 2013创建和测试的。还没有在Windows 8上测试过，并且如果在Visual Stduio 2012无法打开的情况下，可能需要另外创建空白项目，并导入或拷贝代码。
