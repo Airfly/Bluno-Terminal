@@ -21,16 +21,19 @@ https://itunes.apple.com/cn/app/bluno-zhong-duan/id794109935?mt=8
 
 For more information about Bluno, please visit web page: http://www.dfrobot.com/wiki/index.php/Bluno_SKU:DFR0267
 
-Bluno开发板更多信息，请访问网页：http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%8E%A7%E5%88%B6%E5%99%A8_%E5%85%BC%E5%AE%B9Arduino
+Bluno开发板更多信息，请访问网页：
+http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%8E%A7%E5%88%B6%E5%99%A8_%E5%85%BC%E5%AE%B9Arduino
 
 
 
 Tips:
+
 -Sending +++ to switch into AT Mode, then sending AT+PASSWORD=[your passcode] for authentication.
 
 -Sending AT+EXIT to switch back to normal mode.
 
 提示：
+
 -发送 +++ 可切换到AT指令模式，然后发送 AT+PASSWORD=[你的密码] 进行认证。
 
 -发送 AT+EXIT 切换回到普通模式。
@@ -38,4 +41,5 @@ Tips:
 
 
 This project was built and tested under Windows 8.1 with Visula Studio 2013. And did not test on Windows 8 yet.
+
 这个项目在Windows 8.1下使用Visual Studio 2013创建和测试的。还没有在Windows 8上测试过，并且如果在Visual Stduio 2012无法打开的情况下，可能需要另外创建空白项目，并导入或拷贝代码。
