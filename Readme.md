@@ -1,4 +1,4 @@
-# Bluno Terminal
+# Bluno Terminal/Bluno终端
 This is Bluno Terminal's Windows 8 Store App project [Bluno-Terminal](https://github.com/Airfly/Bluno-Terminal).
 
 这是Bluno终端的Windows 8 Store App 项目。
