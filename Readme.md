@@ -52,22 +52,8 @@ This code is distributed under the terms and conditions of the [MIT license](LIC
 
 Your kind donations will help [me](https://github.com/Airfly) on my open source. If you like it you can buy me a drink, too. Thanks.
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=W2NXRPD43YSCU&amp;lc=TR&amp;item_name=Ali%20Ayas&amp;item_number=Open%20Source&amp;currency_code=USD&amp;bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt="[paypal]" /></a>
+<a target="_top" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=5YY6R2LN33SSC"><img src="https://www.paypalobjects.com/en_US/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!"></a>
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="UZCE9GH9LYZ9Q">
-<table>
-<tr><td><input type="hidden" name="on0" value="Donate my open source">Donate my open source</td></tr><tr><td><select name="os0">
-	<option value="Donate a dollar">Donate a dollar $1.00 USD</option>
-	<option value="Donate two dollar">Donate two dollar $2.00 USD</option>
-	<option value="Donate three dollar">Donate three dollar $3.00 USD</option>
-</select> </td></tr>
-</table>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+您的好意将会对我的开源代码有很大的帮助，如果您喜欢这些代码或是这些代码对您有用，我将会更加高兴，如果您买一冰啤给我。感谢。我的支付宝帐号是：1272000@163.com 。当然您也可以使用PayPal操作：
 
-
-您的好意将会对我的开源代码有很大的帮助，如果您喜欢这些代码或是这些代码对您有用，我将会更加高兴，如果您买一冰啤给我。感谢。我的支付宝帐号是：1272000@163.com 。
+<a target="_top" href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=3KSDZPY9GCAMW"><img src="https://www.paypalobjects.com/zh_XC/C2/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal——最安全便捷的在线支付方式！"></a>
