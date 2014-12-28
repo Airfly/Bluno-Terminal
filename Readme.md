@@ -29,15 +29,13 @@ http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%
 
 ### Screen shot/屏幕截图
 
-![蓝牙配对](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/1-pair.png "蓝牙配对")
+![蓝牙配对](screenshot/1-pair.png "蓝牙配对")
 
-![磁贴](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/2-tile.png "磁贴")
+![磁贴](screenshot/2-tile.png "磁贴")
 
-![蓝牙访问许可](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/3-running.png "蓝牙访问许可")
+![蓝牙访问许可](screenshot/3-running.png "蓝牙访问许可")
 
-![数据发送及接收](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/4-running.png "数据发送及接收")
-
-![test](screenshot/4-running.png "test")
+![数据发送及接收](screenshot/4-running.png "数据发送及接收")
 
 ### Note/说明
 
