@@ -35,7 +35,9 @@ http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%
 
 ![蓝牙访问许可](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/3-running.png "蓝牙访问许可")
 
-![运行数据发送及接收](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/4-running.png "运行数据发送及接收")
+![数据发送及接收](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/4-running.png "数据发送及接收")
+
+![test](screenshot/4-running.png "test")
 
 ### Note/说明
 
