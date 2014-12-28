@@ -11,10 +11,10 @@ Bluno终端是拥有集成蓝牙4.0的Bluno开发板并兼容Arduino UNO的无�
 ### Tips/提示
 
 * Sending +++ to switch into AT Mode, then sending AT+PASSWORD=[your passcode] for authentication.
-发送 +++ 可切换到AT指令模式，然后发送 AT+PASSWORD=[你的密码] 进行认证。
+* 发送 +++ 可切换到AT指令模式，然后发送 AT+PASSWORD=[你的密码] 进行认证。
 
 * Sending AT+EXIT to switch back to normal mode.
-发送 AT+EXIT 切换回到普通模式。
+* 发送 AT+EXIT 切换回到普通模式。
 
 ### Related/相关的
 
@@ -29,7 +29,13 @@ http://wiki.dfrobot.com.cn/index.php/(SKU:DFR0267)Bluno%E8%93%9D%E7%89%994.0%E6%
 
 ### Screen shot/屏幕截图
 
+![蓝牙配对](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/1-pair.png "蓝牙配对")
 
+![磁贴](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/2-tile.png "磁贴")
+
+![蓝牙访问许可](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/3-running.png "蓝牙访问许可")
+
+![运行数据发送及接收](https://raw.githubusercontent.com/Airfly/Bluno-Terminal/master/screenshot/4-running.png "运行数据发送及接收")
 
 ### Note/说明
 
